@@ -28,3 +28,10 @@ The **Java Banking System** is a console-based application that simulates fundam
    ```bash
    git clone https://github.com/priyanshuraj009/Java-Banking-System.git
    cd Java-Banking-System
+2. Open the project in your preferred IDE.
+3. Compile and run the BankingApplication.java file to start the application.
+
+### Usage
+- **Menu Options**: The application provides a menu-driven interface. Choose options from the menu to perform various operations like account creation, deposit, withdrawal, and checking the balance.
+- **Account Operations**: Follow the on-screen prompts to enter the necessary details for each operation.
+- **Transaction History**: Access the transaction history to review past transactions associated with each account.
